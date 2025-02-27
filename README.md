@@ -1,6 +1,6 @@
 In this project, I've developed a pipeline using Python to process text from a PDF, which is typically a resume, train a language model on this text, and then use the trained model to generate text. Let me walk you through the key parts of my notebook:
 
-**Setup and Initializations**
+### **Setup and Initializations**
 - Dependencies: I started by installing the necessary Python libraries including `PyPDF2` for reading PDF files, `datasets` for managing our data, and `transformers` for leveraging pre-built models and utilities.
 - **Imports**: I imported the essential libraries such as `torch` and components from `transformers` to set up our environment.
 
